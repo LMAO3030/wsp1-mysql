@@ -17,3 +17,9 @@ Starta services / tjänster i Windows.
 
 Stoppa branchen och starta om apache2.
 
+## mysql
+
+**setup**
+kör
+     sudo mysql -u root
+
