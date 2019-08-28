@@ -23,3 +23,4 @@ Stoppa branchen och starta om apache2.
 kör
      sudo mysql -u root
 
+grant all privileges on *.* to 'jensny'@'localhost' identified by 'password';
